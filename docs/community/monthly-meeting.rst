@@ -9,7 +9,7 @@ Upcoming meeting dates and times:
 
 .. meeting-dates::
 
-`Download iCalendar file </docs-community-meetings.ics>`_
+`Subscribe to or download the iCalendar file </docs-community-meetings.ics>`_
 
 The agenda and later the meeting minutes are written in the `HackMD <https://hackmd.io/@encukou/pydocswg1>`_.
 To edit notes, click the “pencil” or “split view” button on the `HackMD Document <https://hackmd.io/@encukou/pydocswg1>`_.
