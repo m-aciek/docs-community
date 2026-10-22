@@ -96,7 +96,6 @@ def generate_ics(app, exception):
             "LOCATION:https://discord.com/channels/935215565872693329/1303462495977213992",
             "DESCRIPTION:Agenda: https://hackmd.io/@encukou/pydocswg1",
             " \\nDiscord channel: https://discord.gg/yhvN2ECXSM",
-            ' \\n+++\\nevent_location="VC:1303462495977213992"\\n+++',
             "END:VEVENT",
         ]
     lines += ["END:VCALENDAR"]
