@@ -53,6 +53,7 @@ intersphinx_disabled_reftypes = []
 
 # The theme to use for HTML pages
 html_theme = "furo"
+html_extra_path = ["extra"]
 
 html_title = "Python Docs Community Group"
 

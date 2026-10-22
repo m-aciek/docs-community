@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Python Docs WG//Meeting dates//EN
+X-WR-CALDESC:Python Docs WG meetings from https://docs-community.readthedocs.io/
+X-WR-CALNAME:Python Docs WG meetings
+BEGIN:VEVENT
+UID:odd-months@python-docs-community
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20260106T180000
+DTEND;TZID=Europe/Berlin:20260106T190000
+RRULE:FREQ=YEARLY;BYMONTH=1,3,5,7,9,11;BYDAY=1TU
+SUMMARY:Python Docs WG monthly meeting
+DESCRIPTION:Agenda: https://hackmd.io/@encukou/pydocswg1
+ \nDiscord channel: https://discord.gg/yhvN2ECXSM
+END:VEVENT
+BEGIN:VEVENT
+UID:even-months@python-docs-community
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=America/New_York:20260203T150000
+DTEND;TZID=America/New_York:20260203T160000
+RRULE:FREQ=YEARLY;BYMONTH=2,4,6,8,10,12;BYDAY=1TU
+SUMMARY:Python Docs WG monthly meeting
+DESCRIPTION:Agenda: https://hackmd.io/@encukou/pydocswg1
+ \nDiscord channel: https://discord.gg/yhvN2ECXSM
+END:VEVENT
+END:VCALENDAR
